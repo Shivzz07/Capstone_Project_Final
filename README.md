@@ -24,25 +24,50 @@ The first purpose of the capstone project is to give a chance to revise all the 
 
 # Project report Template
 
-## Title: [your title goes here]
+## Title: [Personalized AI Study Notes & FlashCards Generator]
 
 ## Overview
 
-[your overview goes here. My project does this that  etc]
+[his project converts long academic PDFs or notes into structured learning content.
+Using LangGraph workflow, the system:
+
+1) Extracts text from PDFs
+
+2) Splits into chunks + embeds into vector DB
+
+3) Runs semantic RAG-based retrieval
+
+4) Generates chapter-wise summaries
+
+5) Extracts key concepts and formulas.
+
+6) Tries to auto-create study ready flashcards based on the given data.]
 
 ## Reason for picking up this project
 
-Expain how this project is aligned with this course content.
+This demonstrates prompting, RAG, semantic search, structured output, tool-calling & LangGraph orchestrations which I think matches the course outcomes and the capstone project requirements.
 
 ## Plan
 
 I plan to excecute these steps to complete my project.
 
-- [TODO] Step 1 involves blah blah
-- [TODO] Step 2 involves blah blah
-- [TODO] Step 3 involves blah blah
-- ...
-- [TODO] Step n involves blah blah
+- [TODO] Step 1: Create repo + add project folder structure
+
+- [TODO] Step 2: Load and preprocess PDF (LangChain PDFLoader)
+
+- [TODO] Step 3: Create text chunks and embeddings
+
+- [TODO] Step 4: Build vector store (FAISS/Chroma)
+
+- [TODO] Step 5: Implement RAG summarization node
+
+- [TODO] Step 6: Build flashcard generation node
+
+- [TODO] Step 7: Connect all with LangGraph
+
+- [TODO] Step 8: Test with sample PDFs + format final output
+
+- [TODO] Step 9: Write final documentation + report
 
 ## Conclusion:
 
