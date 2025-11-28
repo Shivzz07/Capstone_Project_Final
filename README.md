@@ -51,7 +51,7 @@ This demonstrates prompting, RAG, semantic search, structured output, tool-calli
 
 I plan to excecute these steps to complete my project.
 
-- [TODO] Step 1: Create repo + add project folder structure
+- [DONE] Step 1: Create repo + add project folder structure
 
 - [TODO] Step 2: Load and preprocess PDF (LangChain PDFLoader)
 
