@@ -53,7 +53,7 @@ I plan to excecute these steps to complete my project.
 
 - [DONE] Step 1: Create repo + add project folder structure
 
-- [TODO] Step 2: Load and preprocess PDF (LangChain PDFLoader)
+- [DONE] Step 2: Load and preprocess PDF (LangChain PDFLoader)
 
 - [TODO] Step 3: Create text chunks and embeddings
 
