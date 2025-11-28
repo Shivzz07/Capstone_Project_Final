@@ -55,7 +55,7 @@ I plan to excecute these steps to complete my project.
 
 - [DONE] Step 2: Load and preprocess PDF (LangChain PDFLoader)
 
-- [TODO] Step 3: Create text chunks and embeddings
+- [DONE] Step 3: Create text chunks and embeddings
 
 - [TODO] Step 4: Build vector store (FAISS/Chroma)
 
