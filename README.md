@@ -57,7 +57,7 @@ I plan to excecute these steps to complete my project.
 
 - [DONE] Step 3: Create text chunks and embeddings
 
-- [TODO] Step 4: Build vector store (FAISS/Chroma)
+- [DONE] Step 4: Build vector store (FAISS/Chroma)
 
 - [TODO] Step 5: Implement RAG summarization node
 
