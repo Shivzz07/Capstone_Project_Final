@@ -67,8 +67,6 @@ I plan to excecute these steps to complete my project.
 
 - [TODO] Step 8: Test with sample PDFs + format final output
 
-- [TODO] Step 9: Write final documentation + report
-
 ## Conclusion:
 
 I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
