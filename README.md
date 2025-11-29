@@ -59,7 +59,7 @@ I plan to excecute these steps to complete my project.
 
 - [DONE] Step 4: Build vector store (FAISS/Chroma)
 
-- [TODO] Step 5: Implement RAG summarization node
+- [DONE] Step 5: Implement RAG summarization node
 
 - [TODO] Step 6: Build flashcard generation node
 
