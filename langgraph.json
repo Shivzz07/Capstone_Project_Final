@@ -1,0 +1,17 @@
+{
+  "graphs": {
+    "study_graph": "src/graph_app.py:app"
+  },
+  "dependencies": [
+    "langchain_openai",
+    "langchain_community",
+    "faiss-cpu",
+    "pypdf",
+    "sentence-transformers"
+  ],
+  "env": {
+    "OPENAI_API_KEY": ""
+  },
+  "host": "localhost",
+  "port": 8234
+}

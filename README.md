@@ -61,9 +61,9 @@ I plan to excecute these steps to complete my project.
 
 - [DONE] Step 5: Implement RAG summarization node
 
-- [TODO] Step 6: Build flashcard generation node
+- [DONE] Step 6: Build flashcard and summary generation node
 
-- [TODO] Step 7: Connect all with LangGraph
+- [DONE] Step 7: Connect all with LangGraph
 
 - [TODO] Step 8: Test with sample PDFs + format final output
 
