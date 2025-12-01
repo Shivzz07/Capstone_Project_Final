@@ -65,7 +65,7 @@ I plan to excecute these steps to complete my project.
 
 - [DONE] Step 7: Connect all with LangGraph
 
-- [TODO] Step 8: Test with sample PDFs + format final output
+- [DONE] Step 8: Test with sample PDFs + format final output
 
 ## Conclusion:
 
