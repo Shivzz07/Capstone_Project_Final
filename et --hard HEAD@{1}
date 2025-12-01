@@ -1,0 +1,16 @@
+[33m2a811ca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~2
+[33mc9c23c6[m HEAD@{1}: reset: moving to HEAD~3
+[33m95ea9d1[m HEAD@{2}: commit: Done!
+[33m2f3e833[m HEAD@{3}: reset: moving to HEAD~1
+[33m079d680[m HEAD@{4}: commit: Everything done!
+[33m2f3e833[m HEAD@{5}: commit: Hiding openAI api key!
+[33m6caa285[m HEAD@{6}: commit: Slight update!
+[33mc9c23c6[m HEAD@{7}: commit: Chatgpt inside chapters!
+[33m1d77103[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{8}: commit: Professors : Chapter-wise summary for revision is ready!
+[33m2a811ca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{9}: commit: Update README
+[33m16ab8bc[m HEAD@{10}: commit: Toppers : Last minute quiz ready notes!
+[33m8073d57[m HEAD@{11}: commit: Students : Long chapters into Quiz ready notes!
+[33m904a1be[m HEAD@{12}: commit: Architect On Site: Knowledge chunks embedded into FAISS!
+[33md27ccbf[m HEAD@{13}: commit: Construction Worker : Your PDF has been loaded! (loader.ipynb file)
+[33m5cb533a[m HEAD@{14}: commit: Updated Project Structure
+[33m9b133b6[m HEAD@{15}: clone: from https://github.com/Shivzz07/Capstone_Project_Final.git
