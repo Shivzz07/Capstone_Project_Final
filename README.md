@@ -53,17 +53,17 @@ I plan to excecute these steps to complete my project.
 
 - [DONE] Step 1: Create repo + add project folder structure
 
-- [DONE] Step 2: Load and preprocess PDF (LangChain PDFLoader) (src/loader.ipynb)
+- [DONE](src/loader.ipynb) Step 2: Load and preprocess PDF (LangChain PDFLoader) 
 
-- [DONE] Step 3: Create text chunks and embeddings (src/rag_chain.ipynb)
+- [DONE](src/rag_chain.ipynb) Step 3: Create text chunks and embeddings 
 
-- [DONE] Step 4: Build vector store (FAISS/Chroma) (src/embed_store.ipynb)
+- [DONE](src/embed_store.ipynb) Step 4: Build vector store (FAISS/Chroma) 
 
-- [DONE] Step 5: Implement RAG summarization node (src/rag_chain.ipynb)
+- [DONE](src/chapter_wise.ipynb) Step 5: Implement RAG summarization node 
 
-- [DONE] Step 6: Build flashcard and summary generation node (src/flashcard_extractor.ipynb)
+- [DONE](src/flashcard_extractor.ipynb) Step 6: Build flashcard and summary generation node 
 
-- [DONE] Step 7: Connect all with LangGraph (src/graph_app.py)
+- [DONE](src/graph_app.py) Step 7: Connect all with LangGraph 
 
 - [DONE] Step 8: Test with sample PDFs + format final output
 
