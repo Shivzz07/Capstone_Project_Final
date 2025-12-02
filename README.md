@@ -28,7 +28,7 @@ The first purpose of the capstone project is to give a chance to revise all the 
 
 ## Overview
 
-[his project converts long academic PDFs or notes into structured learning content.
+This project converts long academic PDFs or notes into structured learning content.
 Using LangGraph workflow, the system:
 
 1) Extracts text from PDFs
@@ -41,7 +41,7 @@ Using LangGraph workflow, the system:
 
 5) Extracts key concepts and formulas.
 
-6) Tries to auto-create study ready flashcards based on the given data.]
+6) Tries to auto-create study ready flashcards based on the given data.
 
 ## Reason for picking up this project
 
@@ -53,23 +53,23 @@ I plan to excecute these steps to complete my project.
 
 - [DONE] Step 1: Create repo + add project folder structure
 
-- [DONE] Step 2: Load and preprocess PDF (LangChain PDFLoader)
+- [DONE] Step 2: Load and preprocess PDF (LangChain PDFLoader) (src/loader.ipynb)
 
-- [DONE] Step 3: Create text chunks and embeddings
+- [DONE] Step 3: Create text chunks and embeddings (src/rag_chain.ipynb)
 
-- [DONE] Step 4: Build vector store (FAISS/Chroma)
+- [DONE] Step 4: Build vector store (FAISS/Chroma) (src/embed_store.ipynb)
 
-- [DONE] Step 5: Implement RAG summarization node
+- [DONE] Step 5: Implement RAG summarization node (src/rag_chain.ipynb)
 
-- [DONE] Step 6: Build flashcard and summary generation node
+- [DONE] Step 6: Build flashcard and summary generation node (src/flashcard_extractor.ipynb)
 
-- [DONE] Step 7: Connect all with LangGraph
+- [DONE] Step 7: Connect all with LangGraph (src/graph_app.py)
 
 - [DONE] Step 8: Test with sample PDFs + format final output
 
 ## Conclusion:
 
-I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
+I had planned to achieve {Study Notes and flashcard Generator}. I think I have achieved the conclusion satisfactorily. The reason for my satisfaction is that it does the work pretty decently.
 
 ----------
 
